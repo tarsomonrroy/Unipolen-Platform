@@ -1,0 +1,78 @@
+<header class="container-fluid bg-unp-blue-1">
+  <nav id="header-horizontal">
+    <ul><li><a href="/"><img src="." alt="Logo"></a></li></ul>
+    <ul id="header-items-horizontal">
+      <li><a class="unp-link-light" href="/">Home</a></li>
+      <li><a class="unp-link-light" href="/cursos">Cursos</a></li>
+      <li><a class="unp-link-light" href="/polos">Polos</a></li>
+      <li><a class="unp-link-light" href="/login">Login</a></li>
+      <li><a class="unp-link-light" href="/faq">FAQ</a></li>
+    </ul>
+    <ul>
+      <li>
+        <a href="#" id="header-toggle">
+          <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" height="48px" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="3" y1="12" x2="21" y2="12"></line>
+            <line x1="3" y1="6" x2="21" y2="6"></line>
+            <line x1="3" y1="18" x2="21" y2="18"></line>
+          </svg>
+        </a>
+      </li>
+      <li>
+        <a href="/search" id="header-search">
+          <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" height="48" viewBox="0 0 50 50">
+            <path d="M 21 3 C 11.621094 3 4 10.621094 4 20 C 4 29.378906 11.621094 37 21 37 C 24.710938 37 28.140625 35.804688 30.9375 33.78125 L 44.09375 46.90625 L 46.90625 44.09375 L 33.90625 31.0625 C 36.460938 28.085938 38 24.222656 38 20 C 38 10.621094 30.378906 3 21 3 Z M 21 5 C 29.296875 5 36 11.703125 36 20 C 36 28.296875 29.296875 35 21 35 C 12.703125 35 6 28.296875 6 20 C 6 11.703125 12.703125 5 21 5 Z"></path>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </nav>
+  <nav>
+    <aside id="header-vertical-aside">
+    </aside>
+  </nav>
+  <script>
+    var headerIsToggled = false;
+    var headerItemsHorizontal = document.getElementById("header-items-horizontal");
+    var headerItemsVerticalTmp = headerItemsHorizontal.cloneNode(true);
+    var headerVerticalAside = document.getElementById("header-vertical-aside");
+    headerVerticalAside.append(headerItemsVerticalTmp);
+    headerVerticalAside.children[0].id = "header-items-vertical";
+    var headerItemsVertical = document.getElementById("header-items-vertical");
+    headerVerticalAside.style.position = "absolute";
+    headerVerticalAside.classList.add("bg-unp-blue-1");
+    headerVerticalAside.style.width = "100%";
+    headerVerticalAside.style.left = "0";
+    headerVerticalAside.style.paddingLeft = "2.5rem";
+    headerVerticalAside.style.zIndex = "5";
+
+    
+    var headerToggle = document.getElementById("header-toggle");
+    const mediaQuery = window.matchMedia("(min-width: 1200px)");
+
+    headerToggle.onclick = () => {
+      if (mediaQuery.matches) return;
+
+      if (!headerIsToggled) headerItemsVertical.style.display = "inherit";
+      else headerItemsVertical.style.display = "none";
+
+      headerIsToggled = !headerIsToggled;
+    };
+
+    function mediaWidthChange() {
+      if (mediaQuery.matches) {
+        headerToggle.style.display = "none";
+        headerItemsVertical.style.display = "none";
+        headerItemsHorizontal.style.display = "inherit";
+      } else {
+        headerToggle.style.display = "inherit";
+        headerItemsVertical.style.display = "none";
+        headerIsToggled = false;
+        headerItemsHorizontal.style.display = "none";
+      }
+    }
+
+    mediaQuery.addListener(mediaWidthChange);
+    mediaWidthChange(mediaQuery);
+  </script>
+</header>

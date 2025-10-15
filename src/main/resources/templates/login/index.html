@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'>
+    <link rel="stylesheet" href="/static/css/base.css">
+    <link rel="stylesheet" href="/static/css/login.css">
+    <title>Entrar</title>
+  </head>
+  <body>
+    <header th:replace="~{/fragments/header.html :: header}"></header>
+    <main class="container-fluid">
+      <br>
+      <article class="bg-unp-red-1">
+        <h1 class="bg-unp-red-1">Login</h1>
+        <form action="/login" method="post">
+          <label for="email" class="bg-unp-red-1">
+            Email
+            <input type="email" id="email" name="email" required>
+          </label>
+          <br>
+          <label for="password" class="bg-unp-red-1">
+            Senha
+            <input type="password" id="password" name="password" required>
+          </label>
+          <br>
+          <button class="unp-btn-light" type="submit">Entrar</button>
+          <span style="color: aliceblue" th:text="${message}"></span>
+        </form>
+        <br>
+        <div>
+          Não possui uma conta?<br>
+          <a href="registrar" class="unp-link-light active">Registrar-se</a>
+        </div>
+      </article>
+    </main>
+    <footer th:replace="~{/fragments/footer.html :: footer}"></footer>
+  </body>
+</html>

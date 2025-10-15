@@ -1,0 +1,972 @@
+[
+  {
+    "name": "2ª Licenciatura Em Educação Especial - 12 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 12,
+    "hours": 1340,
+    "url": "https://ead.unisanta.br/cursos/graduacao/educacao-especial-segunda-licenciatura",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em Educação Especial - 6 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 6,
+    "hours": 1340,
+    "url": "https://ead.unisanta.br/cursos/graduacao/educacao-especial-segunda-licenciatura-6",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em História - 6 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 6,
+    "hours": 1280,
+    "url": "https://ead.unisanta.br/cursos/graduacao/2a-licenciatura-historia",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em História - 12 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 12,
+    "hours": 1280,
+    "url": "https://ead.unisanta.br/cursos/graduacao/2a-licenciatura-historia-12-meses",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em Letras - Português / Inglês - 12 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 12,
+    "hours": 1220,
+    "url": "https://ead.unisanta.br/cursos/graduacao/2a-licenciatura-em-letras-portugues-12-meses",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em Letras - Português / Inglês - 6 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 6,
+    "hours": 1220,
+    "url": "https://ead.unisanta.br/cursos/graduacao/2a-licenciatura-em-letras-portugues-6-meses",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª Licenciatura Em Pedagogia",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 12,
+    "hours": 1320,
+    "url": "https://ead.unisanta.br/cursos/graduacao/pedagogia-segunda-licenciatura",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "2ª licenciatura Em Pedagogia - 6 Meses",
+    "qualification": "2ª Licenciatura",
+    "style": "A distância",
+    "duration_months": 6,
+    "hours": 1320,
+    "url": "https://ead.unisanta.br/cursos/graduacao/2alicenciatura-em-pedagogia-6-meses",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Administração",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 48,
+    "hours": 3000,
+    "url": "https://ead.unisanta.br/cursos/graduacao/administracao",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Administração Para Contadores",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 18,
+    "hours": 3900,
+    "url": "https://ead.unisanta.br/cursos/graduacao/administracaoparacontadores",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Análise E Desenvolvimento De Sistemas",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 2000,
+    "url": "https://ead.unisanta.br/cursos/graduacao/analise-e-desenvolvimento-de-sistemas",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Biblioteconomia - Duração 3 Anos",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3245,
+    "url": "https://ead.unisanta.br/cursos/graduacao/biblioteconomia",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Ciências Contábeis",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 48,
+    "hours": 3000,
+    "url": "https://ead.unisanta.br/cursos/graduacao/ciencias-contabeis",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Ciências Contábeis Para Administradores",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 18,
+    "hours": 3900,
+    "url": "https://ead.unisanta.br/cursos/graduacao/ciencias-contabeis-para-administradores",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Comércio Exterior",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/comercio-exterior",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Comunicação Institucional",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1940,
+    "url": "https://ead.unisanta.br/cursos/graduacao/comunicacao-institucional",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Empreendedorismo",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1920,
+    "url": "https://ead.unisanta.br/cursos/graduacao/empreendedorismo",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Engenharia De Produção",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 60,
+    "hours": 4360,
+    "url": "https://ead.unisanta.br/cursos/graduacao/ead-engenharia-de-producao",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Ambiental",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-ambiental",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Comercial",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1940,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-comercial",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Da Tecnologia Da Informação",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 2000,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-da-tecnologia-da-informacao",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão De Negócios E Inovação",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1920,
+    "url": "https://ead.unisanta.br/cursos/graduacao/tecnologiaemgestao",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão De Recursos Humanos",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-de-recursos-humanos",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Em Serviços Jurídicos E Notariais",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1920,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-em-servicos-juridicos-e-notariais",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Financeira",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-financeira",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Hospitalar",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 36,
+    "hours": 2400,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-hospitalar",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Portuária",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1940,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestaoportuaria",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Gestão Pública",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/gestao-publica",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Artes Visuais",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-artes-visuais",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Ciências Biológicas",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-ciencias-biologicas",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Ciências Da Religião",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/ciencias-da-religiao-ead",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Educação Especial",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-educacao-especial",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Educação Física",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/ead-educacao-fisica",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Física",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/fisica-licenciatura",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Geografia",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-geografia-1",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em História",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3490,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-historia",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Letras - Português / Espanhol",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-letras-portugues-espanhol",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Letras - Português / Inglês",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-letras-portugues-ingles",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Letras - Português / Libras",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-letras-portugues-libras",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Matemática",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3244,
+    "url": "https://ead.unisanta.br/cursos/graduacao/licenciatura-em-matematica",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Pedagogia",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3245,
+    "url": "https://ead.unisanta.br/cursos/graduacao/pedagogia",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Licenciatura Em Química",
+    "qualification": "Licenciatura",
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 3240,
+    "url": "https://ead.unisanta.br/cursos/graduacao/quimica-licenciatura",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Logística",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/logistica",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Marketing",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/marketing",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Processos Gerenciais",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/processos-gerenciais",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Psicopedagogia",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 36,
+    "hours": 3240,
+    "url": "https://ead.unisanta.br/cursos/graduacao/psicopedagogia",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Segurança Pública",
+    "qualification": "Tecnólogo",
+    "style": "A distância",
+    "duration_months": 24,
+    "hours": 1600,
+    "url": "https://ead.unisanta.br/cursos/graduacao/seguranca-publica",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Serviço Social",
+    "qualification": "Bacharelado",
+    "style": "A distância",
+    "duration_months": 48,
+    "hours": 3660,
+    "url": "https://ead.unisanta.br/cursos/graduacao/bacharelado-em-servico-social",
+    "is_available": true,
+    "degree": "Graduação"
+  },
+  {
+    "name": "Compliance",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/compliance-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Digital Influencer",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/digital-influencer-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Administrativo",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-administrativo-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Aduaneiro",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-aduaneiro-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Ambiental",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-ambiental-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Civil",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-civil",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Civil E Processo Civil",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-civil-e-processo-civil",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Constitucional",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-constitucional",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Da Família E Sucessões",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-da-familia-e-sucessoes",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Da Saúde",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-da-saude",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Digital",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-digital",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Do Consumidor",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-do-consumidor-06-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Do Trabalho",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-do-trabalho",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Do Trabalho E Previdenciário",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-do-trabalho-e-previdenciario",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito E Processo Do Trabalho",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-e-processo-do-trabalho",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito E Processo Previdenciário",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-e-processo-previdenciario",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Empresarial",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/ead-direito-empresarial",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Homoafetivo E De Gênero - Turma 28 - Inscrições Até 10/11/2023",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 404,
+    "url": "https://ead.unisanta.br/cursos/posgraduacao/direito-homoafetivo-e-de-genero",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Imobiliário",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/ead-direito-imobiliario",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Internacional",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/ead-direito-internacional",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Marítimo",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-maritimo",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Médico",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-medico",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Militar",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-militar",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Notarial Com Ênfase Na Advocacia Extrajudicial",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-notarial-com-enfase-na-advocacia-extrajudicial-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Penal",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-penal",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Penal E Processo Penal",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-penal-e-processo-penal",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Portuário",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-portuario",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Privado",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-privado",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Processual Civil",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-processual-civil",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Processual Do Trabalho",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-processual-do-trabalho",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Processual Penal",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-processual-penal",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Público",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-publico-06",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direito Tributário",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direito-tributario",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Direitos Humanos",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/direitos-humanos",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Educação Especial",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 480,
+    "url": "https://ead.unisanta.br/cursos/escoladeeducacao/educacao-especial-04-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Empreendedorismo De Alto Impacto",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/empreendedorismo-de-alto-impacto-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Engenharia Da Confiabilidade - Turma 17 - Incrições Abertas Até 06/11/2023",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 424,
+    "url": "https://ead.unisanta.br/cursos/posgraduacao/engenharia-confiabilidade",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Engenharia De Equipamentos Industriais",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 420,
+    "url": "https://ead.unisanta.br/cursos/posgraduacao/engenharia-de-equipamentos-industriais-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Filosofia Do Direito",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 384,
+    "url": "https://ead.unisanta.br/cursos/escoladedireito/filosofia-do-direito",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Gestão De Branding E Sustentabilidade",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/gestao-de-branding-e-sustentabilidade-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Gestão De Micro E Pequenas Empresas",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/gestao-de-micro-e-pequenas-empresas-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Gestão De Projetos",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 360,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/gestao-de-projetos-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Gestão Estratégica De Negócios",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/gestao-estrategica-de-negocios-12-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Inovação Disruptiva E Internet Das Coisas",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/inovacao-disruptiva-e-internet-das-coisas-12meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "International Financial Reporting Standard",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/international-financial-reporting-standard-12meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Liderança Estratégica",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/lideranca-estrategica-12meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Logística E Supply Chain",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/logistica-e-supply-chain-12meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Marketing Para E-Commerce",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladegestao/marketing-para-e-commerce-12meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  },
+  {
+    "name": "Psicopedagogia",
+    "qualification": null,
+    "style": "A distância",
+    "duration_months": null,
+    "hours": 400,
+    "url": "https://ead.unisanta.br/cursos/escoladeeducacao/psicopedagogia-06-meses",
+    "is_available": true,
+    "degree": "Pós-Graduação"
+  }
+]

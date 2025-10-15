@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html data-theme="dark" xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+		<link rel="stylesheet" href="/static/css/base.css">
+		<title>[[${title} ?: (${defaults.name} ?: '')]]</title>
+	</head>
+	<body>
+		<header th:replace="~{/fragments/header.html :: header}"></header>
+		<main class="container" style="text-align: center; min-height: 800px">
+			<h1 style="text-align: center">[[${title} ?: '']]</h1>
+			<span style="font-size: 1.5rem">[[${message} ?: '']]</span>
+			<br>
+			<a class="unp-link-light" th:href="${linkPath} ?: ''">[[${linkLabel} ?: '']]</a>
+		</main>
+		<footer th:replace="~{/fragments/footer.html :: footer}"></footer>
+		<script th:src="${scriptPath} ?: ''"></script>
+		<script>[[${script} ?: '']]</script>
+	</body>
+</html>

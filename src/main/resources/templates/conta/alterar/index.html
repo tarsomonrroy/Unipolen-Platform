@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html data-theme="dark" xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+		<link rel="stylesheet" href="/static/css/base.css">
+		<link rel="stylesheet" href="/static/css/conta-alterar.css">
+		<title>Alterar [[${fieldName}]]</title>
+	</head>
+	<body>
+		<header th:replace="~{/fragments/header.html :: header}"></header>
+		<main>
+			<h1>Alterar [[${fieldName}]]</h1>
+			<form th:action="'/conta/alterar/' + ${field}" method="POST">
+				<label th:if="${currentValue}" for="current">[[${fieldName.replaceFirst("^.", field.substring(0, 1).toUpperCase())}]] atual:</label>
+				<input th:if="${currentValue}" id="current" readonly th:value="${currentValue} ?: ''">
+				<br>
+				<label for="new-value">[[${label}]]</label>
+				<input th:type="${field} eq 'senha' ? 'password' : (${field} eq 'email' ? 'email' : 'text')" name="new-value" id="new-value" required>
+				<br>
+				<label for="password">Confirme a sua senha[[${field} eq 'senha' ? ' atual' : '']]:</label>
+				<input type="password" name="password" id="password" required>
+				<br>
+				<span id="message" th:text="${message}"></span>
+				<br><br>
+				<button class="" type="submit">Alterar [[${fieldName}]]</button>
+			</form>
+		</main>
+		<footer th:replace="~{/fragments/footer.html :: footer}"></footer>
+	</body>
+</html>
